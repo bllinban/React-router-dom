@@ -1,14 +1,14 @@
-/* Стилі для сторінки "Про нас" */
+
 h1 {
-    font-size: 2rem; /* Збільшуємо розмір заголовка */
-    text-align: center; /* Центруємо заголовок */
-    color: #d81b60; /* Рожевий колір для заголовку */
+    font-size: 2rem; 
+    text-align: center; 
+    color: #d81b60; 
   }
   
   p {
-    font-size: 1.5rem; /* Збільшуємо розмір тексту */
-    text-align: center; /* Центруємо текст */
-    margin: 20px 0; /* Додаємо відступи */
-    line-height: 1.6; /* Збільшуємо відстань між рядками */
+    font-size: 1.5rem; 
+    text-align: center; 
+    margin: 20px 0; 
+    line-height: 1.6; 
   }
   
