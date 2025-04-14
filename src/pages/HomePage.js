@@ -2,10 +2,10 @@ import { useState } from "react";
 import './HomePage.css';
 
 const HomePage = () => {
-  // Стан для зберігання повідомлення про додавання в кошик
+  
   const [message, setMessage] = useState("");
 
-  // Дані для книжок
+
   const books = [
     {
       id: 1,
@@ -30,7 +30,7 @@ const HomePage = () => {
     },
   ];
 
-  // Функція для обробки натискання кнопки
+
   const handleAddToCart = () => {
     alert("Замовлення додано до кошика");
   };
