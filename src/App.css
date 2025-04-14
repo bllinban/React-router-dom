@@ -1,17 +1,17 @@
-/* App.css */
+
 body {
   font-family: Arial, sans-serif;
-  background-color: #fce4ec; /* Світло-рожевий фон */
-  color: #880e4f; /* Темно-рожевий колір тексту */
+  background-color: #fce4ec; 
+  color: #880e4f; 
 }
 
 h1 {
-  color: #d81b60; /* Яскраво-рожевий колір для заголовків */
+  color: #d81b60; 
   text-align: center;
 }
 
 nav {
-  background-color: #f50057; /* Рожевий фон для навігації */
+  background-color: #f50057; 
   padding: 10px;
   border-radius: 5px;
 }
