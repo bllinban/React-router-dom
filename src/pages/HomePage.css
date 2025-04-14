@@ -21,7 +21,7 @@
   }
   
   .book-card button {
-    background-color: #f50057; /* Рожевий колір */
+    background-color: #f50057; 
     color: white;
     border: none;
     padding: 10px;
@@ -31,5 +31,5 @@
   }
 
   .book-card button:hover {
-    background-color: #d81b60; /* Темніший рожевий при наведенні */
+    background-color: #d81b60; 
   }
