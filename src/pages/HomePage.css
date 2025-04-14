@@ -1,0 +1,35 @@
+.book-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .book-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  .book-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .book-card button {
+    background-color: #f50057; /* Рожевий колір */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .book-card button:hover {
+    background-color: #d81b60; /* Темніший рожевий при наведенні */
+  }
